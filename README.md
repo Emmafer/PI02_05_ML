@@ -10,7 +10,7 @@
 
 ## Introducción:
 
-¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi segundo proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Scientist contratado por un importante Centro de Salud para realizar un modelo de Machine Learning que pueda predecir si la estancia de un futuro paciente será prolongada o no. Para ello se nos entregan dos archivos .csv, uno sobre el cual instanciaremos y entrenaremos nuestro modelo y otro que será en el que debemos aplicarlo. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
+¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi segundo proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Scientist contratado por un importante centro de salud para realizar un modelo de Machine Learning que pueda predecir si la estancia de un futuro paciente será prolongada o no. Para ello se nos entregan dos archivos .csv, uno sobre el cual instanciaremos y entrenaremos nuestro modelo y otro que será en el que debemos aplicarlo. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
 
 ## Objetivos: 
 
@@ -26,7 +26,7 @@
 
 ## Explicación del modelo:
 
-Si bien este apartado se encuentra detallado paso a paso en el archivo `EDA_FeatureEng.ipynb`, a modo de resumen comento cómo encaré este problema. Luego de realizar un pequeño análisis de mis datos y algunas conversiones como por ejemplo utilizar LabelEncoder para convertir mis variables categóricas, decidí probar 2 tipos de modelos de clasificación: Regresión Logística y Árbol de decisión. Hice un test utilizando un Árbol porque es el modelo con el que más familiarizado me encuentro, sin embargo, comparé ambos para verificar cuál de estos tenía una mejor accuracy. Además, a la hora de hacer el árbol utilicé la validación cruzada para sacar la profundidad óptima de mi árbol. Luego de hacer la selección de Features utilizando Chi², determiné las features óptimas para entrenar mi modelo, ajusté mis hiperparámetros y obtuve resultados positivos.
+Si bien este apartado se encuentra detallado paso a paso en el archivo `EDA_FeatureEng.ipynb`, a modo de resumen comento cómo encaré este problema. Luego de realizar un pequeño análisis de mis datos y algunas conversiones, como por ejemplo, utilizar LabelEncoder para convertir mis variables categóricas, decidí probar dos tipos de modelos de clasificación: Regresión Logística y Árbol de decisión. Hice un test utilizando un Árbol porque es el modelo con el que más familiarizado me encuentro, sin embargo, comparé ambos para verificar cuál de estos tenía una mejor accuracy. Además, a la hora de hacer el árbol utilicé la validación cruzada para sacar la profundidad óptima de mi árbol. Luego de hacer la selección de Features utilizando Chi², determiné las features óptimas para entrenar mi modelo, ajusté mis hiperparámetros y obtuve resultados positivos.
 
 ## Aclaraciones:
 
@@ -34,7 +34,7 @@ Hay algunas cosas a tener en cuenta, el análisis y modelo propuestos NO son nec
 
 ## Explicación de los contenidos del Repositorio:
 
-+ En la carpeta `datasets` se encuentran los datasets analizados, el `hospitalizaciones_train.csv` que es el que utilizamos para instanciar y entrenar el modelo y `hospitalizaciones_test.csv` que es al que se le aplica el modelo ya terminado para sacar deducciones.
++ En la carpeta `datasets` se encuentran los datasets analizados, el archivo `hospitalizaciones_train.csv` que es el que utilizamos para instanciar y entrenar el modelo y el archivo `hospitalizaciones_test.csv` que es al que se le aplica el modelo ya terminado para sacar deducciones.
 
 + En el notebook `EDA_FeatureEng.ipynb` se encuentra el código comentado paso por paso, explicando las decisiones tomadas a la hora de encarar este proyecto;
     Esto se hizo así para tener dividido de manera ordenada los bloques de código, separados por los markdowns que van dividiendo las etapas del proceso.
