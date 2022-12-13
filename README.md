@@ -2,6 +2,12 @@
 
 # <h1 align=center>**`Datathon - Machine Learning`**</h1>
 
+<p align="center">
+<img src="https://miro.medium.com/max/1000/1*qHbAsMNmdWQJkzm2SUA-8w.jpeg"   
+>
+</p>
+
+
 ## Introducción:
 
 ¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi segundo proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Scientist contratado por un importante Centro de Salud para realizar un modelo de Machine Learning que pueda predecir si la estancia de un futuro paciente será prolongada o no. Para ello se nos entregan 2 archivos .csv, uno sobre el cual instanciaremos y entrenaremos nuestro modelo y otro que será en el que debemos aplicarlo. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
@@ -40,19 +46,19 @@ Hay algunas cosas a tener en cuenta, el análisis y modelo propuestos NO son nec
 
 ## Herramientas/librerías utilizadas:
 
-+ Python.
++ Python. 🐍
 
-+ Pandas.
++ Pandas. 🐼
 
-+ Numpy.
++ Numpy. 📟
 
-+ Mathplotlib.
++ Mathplotlib. 📊
 
-+ ScikitLearn.
++ ScikitLearn. 🤖
 
-+ Joblib.
++ Joblib. 📁
 
-## Espero haberme sabido explicar y que les haya gustado! Gracias por leer a este nerd hasta acá.
+## Espero haberme sabido explicar y que les haya gustado! Gracias por leer a este nerd 🤓.
 
 <p align="center">
 <img src="https://media.tenor.com/e-tu1KPkCucAAAAC/the-simpsons-homer-simpson.gif"   
