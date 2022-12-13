@@ -10,7 +10,7 @@
 
 ## Introducción:
 
-¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi segundo proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Scientist contratado por un importante Centro de Salud para realizar un modelo de Machine Learning que pueda predecir si la estancia de un futuro paciente será prolongada o no. Para ello se nos entregan 2 archivos .csv, uno sobre el cual instanciaremos y entrenaremos nuestro modelo y otro que será en el que debemos aplicarlo. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
+¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi segundo proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Scientist contratado por un importante Centro de Salud para realizar un modelo de Machine Learning que pueda predecir si la estancia de un futuro paciente será prolongada o no. Para ello se nos entregan dos archivos .csv, uno sobre el cual instanciaremos y entrenaremos nuestro modelo y otro que será en el que debemos aplicarlo. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
 
 ## Objetivos: 
 
