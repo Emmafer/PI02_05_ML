@@ -51,3 +51,10 @@ Hay algunas cosas a tener en cuenta, el análisis y modelo propuestos NO son nec
 + ScikitLearn.
 
 + Joblib.
+
+## Espero haberme sabido explicar y que les haya gustado! Gracias por leer a este nerd hasta acá.
+
+<p align="center">
+<img src="https://media.tenor.com/e-tu1KPkCucAAAAC/the-simpsons-homer-simpson.gif"   
+>
+</p>
