@@ -26,7 +26,7 @@
 
 ## Explicación del modelo:
 
-Si bien este apartado se encuentra detallado paso a paso en el archivo `EDA_FeatureEng.ipynb`, a modo de resumen comento cómo encaré este problema. Luego de realizar un pequeño análisis de mis datos y algunas conversiones como por ejemplo utilizar LabelEncoder para convertir mis variable categóricas, decidí probar 2 tipos de modelos de clasificación: Regresión Logística y Árbol de decisión. Hice un test utilizando un Árbol porque es el modelo con el que más familiarizado me encuentro, sin embargo, comparé ambos para verificar cuál de estos tenía una mejor accuracy. Además, a la hora de hacer el árbol utilicé la validación cruzada para sacar la profundidad óptima de mi árbol. Luego de hacer la selección de Features utilizando Chi², determiné las features óptimas para entrenar mi modelo, ajusté mis hiperparámetros y obtuve resultados positivos.
+Si bien este apartado se encuentra detallado paso a paso en el archivo `EDA_FeatureEng.ipynb`, a modo de resumen comento cómo encaré este problema. Luego de realizar un pequeño análisis de mis datos y algunas conversiones como por ejemplo utilizar LabelEncoder para convertir mis variables categóricas, decidí probar 2 tipos de modelos de clasificación: Regresión Logística y Árbol de decisión. Hice un test utilizando un Árbol porque es el modelo con el que más familiarizado me encuentro, sin embargo, comparé ambos para verificar cuál de estos tenía una mejor accuracy. Además, a la hora de hacer el árbol utilicé la validación cruzada para sacar la profundidad óptima de mi árbol. Luego de hacer la selección de Features utilizando Chi², determiné las features óptimas para entrenar mi modelo, ajusté mis hiperparámetros y obtuve resultados positivos.
 
 ## Aclaraciones:
 
